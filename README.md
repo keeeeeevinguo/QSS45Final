@@ -1,4 +1,4 @@
-# QSS45 Final Project: Effect of NHL Game Outcome on Fan Sentiment on Social Media
+# Effect of NHL Game Outcome on Fan Sentiment on Social Media
 
 ## Description
 
